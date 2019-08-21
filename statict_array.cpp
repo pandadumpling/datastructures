@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  staticarray
-//
-//  Created by Dwivedi, Sunita on 8/21/19.
-//  Copyright © 2019 SD. All rights reserved.
-//
 
 #include <iostream>
 #include <array>
